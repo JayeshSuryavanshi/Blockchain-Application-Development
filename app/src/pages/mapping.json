@@ -1,0 +1,38 @@
+{
+  "1": {
+    "name": "Alice's Charging",
+    "ChargingLoc": "https://news.blr.com/app/uploads/sites/2/2019/05/Charging-lot.jpg"
+  },
+  "2": {
+    "name": "Bob's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1590674899484-d5640e854abe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFya2luZyUyMGxvdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  "3": {
+    "name": "Cat's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1590938076771-dfe17af4d484?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGFya2luZyUyMGxvdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  "4": {
+    "name": "Duff's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1604063155785-ee4488b8ad15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFya2luZyUyMGxvdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  "5": {
+    "name": "Eren's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1587409201075-7ffa985e9d2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBhcmtpbmclMjBsb3R8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+  },
+  "6": {
+    "name": "Fred's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1533478433051-f45d0babbf53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFya2luZyUyMHNwYWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  "7": {
+    "name": "Greg's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1545179605-1296651e9d43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  },
+  "8": {
+    "name": "Hen's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1470224114660-3f6686c562eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  "9": {
+    "name": "Ian's Charging",
+    "ChargingLoc": "https://images.unsplash.com/photo-1607286966263-af9fed5a735c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+  }
+}
