@@ -4,7 +4,7 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import Chip from "@mui/material/Chip";
-import LocalCharging from "@mui/icons-material/LocalCharging";
+import LocalCharging from "@mui/icons-material/ChargingStation";
 import { Link as RouterLink, useLocation } from "react-router-dom";
 import { useWallet } from "../wallet.jsx";
 
