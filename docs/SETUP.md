@@ -5,9 +5,11 @@ before, but not that you know Hardhat.
 
 ## What you need
 
-- **Node 18 or newer.** (The Truffle + `react-scripts@4` toolchain I started with does not run on
-  Node 17+ — that's the whole reason I switched to Hardhat + Vite. If you're looking at the git
-  history wondering why Truffle is gone, that's why.)
+- **Node 20.19+ or 22.12+.** Vite 7 needs one of those, and Hardhat 2 supports the Node 20, 22
+  and 24 lines, so a current LTS release (22 or 24) is the safe pick. (The Truffle +
+  `react-scripts@4` toolchain I started with does not run on Node 17+, which is the whole reason I
+  switched to Hardhat + Vite. If you're looking at the git history wondering why Truffle is gone,
+  that's why.)
 - **MetaMask** in your browser.
 
 ## 1. Start a local blockchain
@@ -76,5 +78,5 @@ Now you can like chargers and buy a charge. Buying sends the listed price straig
   history. Settings → Advanced → *Clear activity tab data* for the imported account.
 - **"Yours" on every Buy button.** You're connected as account #0, which owns all the seeded
   chargers, so you can't buy from yourself. Import a *different* test account to act as a driver.
-- **Nothing installs / weird build errors on an old Node.** Use Node 18+. This won't run on the
-  original Truffle + CRA toolchain.
+- **Nothing installs / weird build errors on an old Node.** Use Node 20.19+ or 22.12+. This won't
+  run on the original Truffle + CRA toolchain.

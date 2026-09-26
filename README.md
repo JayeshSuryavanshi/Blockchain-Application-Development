@@ -25,7 +25,7 @@ That's the whole scope. There's no reputation system, no escrow, no scheduling. 
 
 ## Quick start
 
-You need Node 18+ and MetaMask. Full walkthrough (with the MetaMask setup) is in
+You need Node 20.19+ or 22.12+ and MetaMask. Full walkthrough (with the MetaMask setup) is in
 [`docs/SETUP.md`](docs/SETUP.md), but the short version is three terminals:
 
 ```bash
